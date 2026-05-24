@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="Plantarr">
+  <title>Plantarr</title>
+  <rect width="32" height="32" rx="7.5" fill="#3c5440"/>
+  <g transform="translate(4 4)">
+    <path d="M12 21 V 11" fill="none" stroke="#fbf8f1" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M12 11 C 6 11 3 7 3 3 C 9 3 12 6 12 11 Z" fill="#fbf8f1"/>
+    <path d="M12 11 C 18 11 21 7 21 3 C 15 3 12 6 12 11 Z" fill="#fbf8f1" fill-opacity="0.62"/>
+  </g>
+</svg>
